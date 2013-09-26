@@ -1,0 +1,4 @@
+code                   app/code/local/Amplecube/Productsearch/
+frontend/layout/*      app/design/frontend/base/default/layout/
+frontend/template      app/design/frontend/base/default/template/productsearch
+Amplecube_Productsearch.xml          app/etc/modules/Amplecube_Productsearch.xml
