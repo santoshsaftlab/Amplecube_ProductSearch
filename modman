@@ -1,4 +1,4 @@
-app/code/community/Amplecube/Productsearch app/code/community/Hackathon/Productsearch
-app/etc/modules/Amplecube_Productsearch.xml app/etc/modules/Productsearch_Productsearch.xml
-app/design/frontend/base/default/template/productsearch app/design/frontend/base/default/template/productsearch
-app/etc/modules/Amplecube_Productsearch.xml app/etc/modules/Amplecube_Productsearch.xml
+code                   app/code/local/Amplecube/Productsearch/
+frontend/layout/*      app/design/frontend/base/default/layout/
+frontend/template      app/design/frontend/base/default/template/productsearch
+Amplecube_Productsearch.xml          app/etc/modules/Amplecube_Productsearch.xml
